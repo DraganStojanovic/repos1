@@ -1,1 +1,1 @@
-s
+var telo = getElementsByTagName('body');
